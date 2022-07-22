@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.ae5b00ca.js",
-    "index.html": "/index.html",
-    "main.ae5b00ca.js.map": "/static/js/main.ae5b00ca.js.map"
+    "main.js": "/bookmyshowclone/static/js/main.ae5b00ca.js",
+    "index.html": "/bookmyshowclone/index.html",
+    "main.ae5b00ca.js.map": "/bookmyshowclone/static/js/main.ae5b00ca.js.map"
   },
   "entrypoints": [
     "static/js/main.ae5b00ca.js"
