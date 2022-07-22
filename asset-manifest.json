@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/bookmyshowclone/static/js/main.ae5b00ca.js",
+    "main.css": "/bookmyshowclone/static/css/main.e6c13ad2.css",
+    "main.js": "/bookmyshowclone/static/js/main.3eb5eae8.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/bookmyshowclone/static/js/787.c4e7f8f9.chunk.js",
     "index.html": "/bookmyshowclone/index.html",
-    "main.ae5b00ca.js.map": "/bookmyshowclone/static/js/main.ae5b00ca.js.map"
+    "main.e6c13ad2.css.map": "/bookmyshowclone/static/css/main.e6c13ad2.css.map",
+    "main.3eb5eae8.js.map": "/bookmyshowclone/static/js/main.3eb5eae8.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/bookmyshowclone/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ae5b00ca.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3eb5eae8.js"
   ]
 }
